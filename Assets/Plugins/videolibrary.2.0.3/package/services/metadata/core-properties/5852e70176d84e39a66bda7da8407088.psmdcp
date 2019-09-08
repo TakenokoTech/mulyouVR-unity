@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Bar Arnon</dc:creator>
+  <dc:description>libvideo is a fast, clean way to download YouTube videos. It is fully portable and has no dependencies.
+
+Find us on GitHub at https://github.com/i3arnon/libvideo</dc:description>
+  <dc:identifier>VideoLibrary</dc:identifier>
+  <version>2.0.3</version>
+  <keywords>youtube youtubeextractor libvideo lib libs video videos library libraries download extract get vimeo scrape scraping downloader extractor getter scraper youtubeextract videolibrary library winrt wp windows phone pcl portable class library .net framework core xamarin mono monotouch xamarin.ios ios xamarin.android android</keywords>
+  <lastModifiedBy>NuGet.Build.Tasks.Pack, Version=4.8.0.6, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 10.0.16299.0;.NET Framework 4.6</lastModifiedBy>
+</coreProperties>
